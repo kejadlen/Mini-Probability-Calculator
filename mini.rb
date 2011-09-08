@@ -102,5 +102,3 @@ module Mini::Views
     p "%0.2f%" % sum
   end
 end
-
-__END__
